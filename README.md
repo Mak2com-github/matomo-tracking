@@ -1,2 +1,2 @@
-# woocommerce-matomo-tracking
-Matomo tracking plugin for woocommerce datas
+# matomo-tracking
+Matomo tracking plugin for WordPress & WooCommerce datas
